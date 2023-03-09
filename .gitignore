@@ -1,0 +1,7 @@
+*
+# ignore not .cpp files
+!*/
+!*.cpp
+!*.pptx
+!.gitignore
+!README.md
