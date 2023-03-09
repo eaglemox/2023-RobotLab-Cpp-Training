@@ -2,6 +2,6 @@
 # ignore executable file
 !*/
 !*.cpp
-!*.pptx
+!*.pdf
 !.gitignore
 !README.md
