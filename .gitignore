@@ -1,5 +1,5 @@
 *
-# ignore not .cpp files
+# ignore executable file
 !*/
 !*.cpp
 !*.pptx
